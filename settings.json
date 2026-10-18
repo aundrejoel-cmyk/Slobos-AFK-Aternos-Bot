@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+  "server": 
+    "ip": "JoelandJoanna.aternos.me",
+    "port": ,13936
     "version": "",
     "try-creative": false
   },
